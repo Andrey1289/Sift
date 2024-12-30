@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sift:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sift_jar</output-path>
+    <root id="archive" name="Sift.jar">
+      <element id="module-output" name="Sift" />
+    </root>
+  </artifact>
+</component>
