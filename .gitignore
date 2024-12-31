@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+floats.txt
+integers.txt
+strings.txt
